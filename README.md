@@ -1,5 +1,4 @@
 # Guess_The_Number_Wiki
-<br><i><strong> Notice: This Repository will soon go Private. </i></strong><br>
 This Repository is a wiki website for my game Guess The Number. 
 This website started as a project in school in my Trade and the first version ready to be published was finished in January 2025.
 
