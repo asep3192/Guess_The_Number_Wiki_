@@ -1,0 +1,12 @@
+Guess The Number - Easy Gamemode Version 1.2.1
+Update Notes:  
+
+
+List of Things Added
+Changed Credits to make them more clearer 
+
+Bug Fixes
+
+Note: While playing Guess The Number the game may automatically exit to the main menu because you typed a character that is not a number.
+
+A copy of the game without the auto updater (when it comes with the game files) can be given upon request via email.
