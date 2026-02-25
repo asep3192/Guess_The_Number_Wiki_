@@ -25,14 +25,19 @@ overflow: hidden;
 /*Position of modal on page when opened*/
 }
 
-.open-modal-btn-wrapper {
+/*.open-modal-btn-wrapper {
     /* position: fixed; */
-    top: 20%;
-    left: 50%;
-    padding: 0;
-    background-color: red;
-    /* transform: translate(-50%, -50%); */
-}
+    /*top: 20%;
+    left: 50%;*/
+    /*padding: 0;
+    display: flex;
+    /*flex-direction: column;*/
+    /*align-items: flex-end;
+    justify-content: flex-end;
+    /*place-content: flex-start;*/
+    /*width: 100px;*/
+    /* transform: translate(-50%, -50%); 
+}*/
 
 .close-modal-btn,
 .open-modal-btn {
@@ -43,9 +48,11 @@ overflow: hidden;
     color: black;
     font-weight: 5px;
     margin-left: auto;
-    margin-top: 10px;
+    margin-bottom: 10px;
     margin-right: 10px;
     cursor:default;
+    position: relative;
+    bottom: 10px;
     /*Close Button (text) */
     
 }
