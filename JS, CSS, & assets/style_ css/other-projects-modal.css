@@ -1,0 +1,85 @@
+/*:root
+{
+overflow: hidden;
+}*/
+.modal-overlay {
+    background: rgba(0, 0, 0, 0.7);
+    width: 150%;
+    height: 150%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /*Background of page while Modal is open*/
+}
+
+.modal-wrapper {
+    width: 500px;
+    height: 500px;
+    background: whitesmoke;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+/*Position of modal on page when opened*/
+}
+
+.open-modal-btn-wrapper {
+    /* position: fixed; */
+    top: 20%;
+    left: 50%;
+    padding: 0;
+    background-color: red;
+    /* transform: translate(-50%, -50%); */
+}
+
+.close-modal-btn,
+.open-modal-btn {
+    padding: 8px;
+    background: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: black;
+    font-weight: 5px;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-right: 10px;
+    cursor:default;
+    /*Close Button (text) */
+    
+}
+.close-modal-btn:hover
+{
+    color: blue;
+    text-decoration: none;
+    cursor: default;
+    /*When hovering over close button text*/
+}
+
+.close-btn-wrapper {
+    display: flex;
+    /*Header of modal (top of modal)*/
+}
+
+.modal-content {
+    margin: 30px auto;
+    max-width: 300px;
+    width: 150%;
+    /*Text/content inside Modal */
+}
+
+.hide {
+    display: none;
+}
+
+/* h1 {
+   
+} */
+ /*Text Classes below */
+.modal-h1, .h1-modal
+{
+     text-align: center;
+     top: 50;
+    left: 50%;
+    }
