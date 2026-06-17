@@ -8,7 +8,13 @@ Update: 1.2.1 - ReadMe Readability clarifications (Making the credits more easy 
 
 **Updates**
 
-Every so often you should Check the Guess The Number Wiki Easy page, itch io, or contact the developer (*But only* if you got the game from Asep1582 personally). The game can be found on itch io and on the Guess The Number Website ([asep3192.com](asep3192.com)) Recommendation: Once every month or every 3 weeks.
+Every so often you should Check the Guess The Number Wiki Easy page, itch io, or contact the developer (*But only* if you got the game from Asep1582 personally). The game can be found on itch io and on the Guess The Number Website ([asep3192.com](asep3192.com)) Recommendation: Once every month. 
+
+
+
+A more easier way to update GTN after it has been installed is being worked on. 
+
+
 
 Last Update Released:
 
@@ -18,27 +24,15 @@ Read the Update Notes Text File For a List of Changes
 
 *Rules*
 
-No cheating.
+*Please check the EULA for them*
 
-Do not Delete this READ ME text document.
-
-When updating "replace all files" with the new version. You can keep the .dll files as long as they are with the game (in the same location as the .exe).
-
-DO NOT DELETE .dll files or else the game will stop working.
-
-Do not distribute. Unless you are backing up files (file history, or other system back up options).
-
-Do Not Plagiarize
-
-Please Do Not Reverse Engineer the game or its binary code
-
-If You would like to (re)distribute The Game out of the Reasons Listed above than Please use The download Link on the website, on [itch io](https://asep1582.itch.io/guess-the-number), or from GitHub. You can access that here or you can copy the download link from the Guess The Number Wiki - Easy Gamemode Page, ([asep3192.com/Easy\_Gamemode](https://asep3192.com/Easy_Gamemode))
-
-*By Playing any version of GTN (Guess The Number) you agree to abide by these rules*
+Read the EULA online at: [GTN - Easy README - 1.2.1](https://github.com/asep3192/Guess_The_Number_Wiki_/blob/main/downloads/GTN-Easygamemode-V1.2.1-OfficalRelease/README_GTN_EASY_V1.2.1.md)
 
 
 
-To Find out what was added and/or removed from the game, Check out the Update Notes Text File
+**Update Notes:**
+
+To Find out what was added and/or removed from the game, check out the Update Notes text file, or check it out online at this link: [1.2.1 - Update Notes ](https://github.com/asep3192/Guess_The_Number_Wiki_/blob/main/downloads/GTN-Easygamemode-V1.2.1-OfficalRelease/GTN_EASY_V1.2_UpdateNotes.txt)
 
 
 
@@ -48,9 +42,9 @@ Creators Github: [github.com/asep3192](github.com/asep3192)
 
 GTN Wiki Website: [asep3192.com](asep31912.com)
 
-Easy Game mode Page: [asep3192.com/Easy\_Gamemode](asep3192.com/Easy_Gamemode)
+Easy Game mode Page: [asep3192.com/Easy](asep3192.com/Easy_Gamemode)
 
-If you would like to contact the creator/Developer you can contact him through email at: [asep1582dev@gmail.com](mailto:asep1582dev@gmail.com). However if you downloaded GTN from itch io you can leave a comment there too.
+If you would like to contact the creator/Developer you can contact him through email at: [requests@asep3192.com](mailto:requests@asep3192.com). However if you downloaded GTN from itch io you can leave a comment there too.
 
 
 
@@ -66,15 +60,15 @@ Guess The Number - Easy Gamemode Version 1 was released to the public on March 1
 
 **Where to find other game modes**
 
-The other gamemodes of GTN (Guess The Number) can be found on their own gamemode pages (except extra hard mode). When the other game modes are released you can download them from their Pages or itch io when their released.
+The other game modes of GTN (Guess The Number) can be found on their own game mode pages (except extra hard mode). When the other game modes are released you can download them from their Pages or itch io when their released.
 
 
 
-**Other gamemodes to be released at a later point (in the future).**
+**Other game modes to be released at a later point (in the future).**
 
 Guess The Number - Medium Easy Gamemode
 
-Guess The Number - Medium Gamemoded
+Guess The Number - Medium Gamemode
 
 Guess The Number - Hard Mode
 
@@ -84,16 +78,17 @@ Guess The Number - Extra Hard Mode (Hardest version of Guess The Number)
 
 **Attributions**
 
-The GTN Auto updater was provided and made by rugbugredfern (Redlabs). Which was then further customised by Asep1582
-The GTN Auto updater is not complete yet and is still in beta phases.
+The GTN set-up/installer was made using Inno Setup Compiler
 
 
 
-**Guess The Number (GTN) and all of its other Gamemodes, features, components, and assets, are a copyright of Asep1582 (asep3192)**
+**Disclaimer**
 
-**and**
+Guess The Number (GTN) and all of its other Gamemodes, features, components, and assets, **are a copyright of Asep1582 (asep3192)**
 
-**All assets, content  (this includes all artwork created for the game), and the source code used for Guess The Number (GTN) were originally made by Asep1582 (asep3192).**
+and
+
+**All assets, content  **(this includes all artwork created for the game), **and the source code used for Guess The Number (GTN) were originally made by Asep1582 (asep3192).**
 
 
 
