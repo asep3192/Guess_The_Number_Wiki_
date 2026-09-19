@@ -17,7 +17,7 @@ overflow: hidden;
 
 .modal-wrapper {
     width: 500px;
-    height: 600px;
+    height: 550px;
     background: whitesmoke;
     position: fixed;
     top: 50%;
@@ -72,11 +72,12 @@ overflow: hidden;
 }
 
 .modal-content {
-    margin: 30px auto;
-    max-width: 300px;
-    width: 150%;
+    margin: 30px;
+    max-width: 300px !important;
+    /* width: %; */
     /*Text/content inside Modal */
     scrollbar-width: auto;
+    font-size: larger;
 }
 
 .hide {
@@ -92,4 +93,10 @@ overflow: hidden;
      text-align: center;
      top: 50;
     left: 50%;
-    }
+    color: black;    
+}
+.modal-p
+{
+    text-align: center;
+    color: black;
+}
