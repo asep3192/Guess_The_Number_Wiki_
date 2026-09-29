@@ -1,7 +1,3 @@
-:root
-{ background-color: black;
-        color: white;
-}
 body {
     margin: 0;
 }
@@ -9,7 +5,7 @@ body {
 #body {
     margin: 10px;
 }
-/*Color for GTN Icon background: #212430*/
+
 .footer {
     position: fixed;
     left: 0;
@@ -167,44 +163,7 @@ span {
 
     }
 
-    .whitesmokeblacktext{
-        background-color: whitesmoke;
-        color:black;
-    }
-    .textdefaultmargin1cent{
-        background-color: black; color:whitesmoke; margin: 1%;
-    }
-    
-    .textdefaultmargin2cent{
-        background-color: whitesmoke; color:black; margin: 2%;
-    }
 
-    .textdefaultmargin3cent{
-        background-color: whitesmoke; color:black; margin: 3%;
-    }
-    /*style="background-color: whitesmoke; color:black;">*/
-    .dark-mode {
-        background-color: black;
-        color: white;
-      }
-      .light-mode {
-        background-color: whitesmoke;
-        color: black;
-    }
-.p
-{
-    color: whitesmoke;
-
-}
-
-.h3-1
-{
-    color: whitesmoke;
-
-}
-.h3--1
-{
-color: whitesmoke;
-padding-left: 2%;
-
+.GTNEasyInstructionnavbarimage {
+    padding-left: 2%;
 }
